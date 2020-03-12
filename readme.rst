@@ -2,8 +2,8 @@
 Simple Crud Codeigniter With Postgres
 ###################
 
-Ubuntu 18.04
-Codeiniter
+Ubuntu 18.04<br>
+Codeiniter<br>
 Postgres (pgAdmin)
 
 ###################
